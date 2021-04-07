@@ -1,4 +1,5 @@
 Hi, I’m @PhilGanney
+
 My main coding interests are websites and apps that help small businesses. 
 My projects are more about innovating by applying existing techs, to new things, or with really nice designs, rather than bringing in new tech.
 My main solo project is TeaRounder - tools for making food and drink ordering easier.
