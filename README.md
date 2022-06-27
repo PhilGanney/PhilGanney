@@ -4,18 +4,16 @@ My main coding interests are websites and apps that help small businesses and in
 My projects are about innovating by applying existing techs, to new things, or with really nice designs.
 My main solo project is TeaRounder - tools for making food and drink ordering easier.
     read more about it, or use the free, personal use version, at tearounder.app
-I'm also a founding admin of a community called ProtoStart. We collaborate on software projects, and help new coders find real projects that suit them.
-We're using reddit.com/r/protostart to co-ordinate and find new collaborators initially, and are working on protostart.net
 
 
 For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible
    - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
    - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds.
 
-For websites, what I use depends on the owners tech ability, how long it makes sense to take on development and what features are needed:
-    - Wordpress is great for most projects - very customizable and full of features, yet it doesn't require significant tech skills to update the text and pictures (so marketing professionals, business owners and sales people can update the info and pictures whenever a change is needed, without needing a developer). Pretty quick to get a nice looking mobile friendly brochure website up and running, any of the common but advanced things you might want to do with a website can be added via plugins, and anything that doesn't exist as a plugin yet could be added via a custom made plugin if really needed.
+For websites, what I use depends mostly on the owners tech ability and what features are needed:
+    - Wordpress is great for most projects - very customizable and full of features, whilst being easy for the website owner to update the text and pictures. It's pretty quick to get a nice looking mobile friendly brochure website up and running, any of the common but advanced things you might want to do with a website can be added via plugins, and anything that doesn't exist as a plugin yet could be added via a custom made plugin if really needed.
     - Many other CMS (Content Management Systems) and "website builders" exist too. I'll work in them if a client or collaborator prefers, though that generally requires a bit of time for me to find where everything is in those tools, and they vary in how much you can customize a website built in them, and what features can be put in.
-    - by painful experience, I only use HTML, CSS and JS for websites if I'm confident that the owner is skilled enough with those techs to be able to update the website themselves. Even for websites I'm looking after, wordpress is my current preference, except for the homepages of web-apps.
+    - by painful experience, I only use HTML, CSS and JS for websites if I'm confident that the owner is skilled enough with those techs to be able to update the website themselves. Even for websites I'm looking after, wordpress is my current preference, except for the homepages of web-apps. WordPress just makes updating text and pictures so much more effecient and how people would expect, compared with updating HTML.
    
 Over my career I've used a whole bunch of different programming languages, databases and frameworks - giving me quite a broad understanding of whats out there
    - Python is my second favourite programming language after JavaScript, though I've yet to use it for anything beyond little fun projects - I'd quite like that to change!
