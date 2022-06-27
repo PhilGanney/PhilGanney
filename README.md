@@ -9,6 +9,8 @@ My main solo project is TeaRounder - tools for making food and drink ordering ea
 For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible
    - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
    - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds.
+   - I use PHP when something needs to be done server side
+   - whenever I need to build a database I use mySQL
 
 For websites, what I use depends mostly on the owners tech ability and what features are needed:
    - Wordpress is great for most projects - very customizable and full of features, whilst being easy for the website owner to update the text and pictures. It's pretty quick to get a nice looking mobile friendly brochure website up and running, any of the common but advanced things you might want to do with a website can be added via plugins, and anything that doesn't exist as a plugin yet could be added via a custom made plugin if really needed.
