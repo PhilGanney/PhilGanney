@@ -2,13 +2,15 @@ Hi, I’m @PhilGanney
 
 My main coding interests are websites and apps that help small businesses and individuals. 
 My projects are about innovating by applying existing techs, to new things, or with really nice designs.
-My main solo project is TeaRounder - tools for making food and drink ordering easier.
-    read more about it, or use the free, personal use version, at tearounder.app
-
+Big projects that I am proud of include:
+TeaRounder - tools for making food and drink ordering easier.
+    personal use version, to quickly create a list of what people want to order: tearounder.app/anywhere/start.html
+    pub ordering demo at tearounder.app/TheLoremIpsum
+btncode.com - a web based, code-editing/reference tool. Kind of a cross between a cheat-sheet and jsfiddle. It has a responsive design that makes it pleasant to use on mobile - handy for visualising code ideas when they strike at random times.
 
 For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible
    - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
-   - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds.
+   - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds. (for example, jQuery in TeaRounder for the ordering functionality, to make Ajax calls significantly easier, massively reducing development time)
    - I use PHP when something needs to be done server side
    - whenever I need to build a database I use mySQL
 
