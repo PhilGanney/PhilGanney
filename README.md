@@ -2,11 +2,14 @@ Hi, I’m @PhilGanney
 
 My main coding interests are websites and apps that help small businesses and individuals. 
 My projects are about innovating by applying existing techs, to new things, or with really nice designs.
+
 Big projects that I am proud of include:
-TeaRounder - tools for making food and drink ordering easier.
-    personal use version, to quickly create a list of what people want to order: tearounder.app/anywhere/start.html
-    pub ordering demo at tearounder.app/TheLoremIpsum
-btncode.com - a web based, code-editing/reference tool. Kind of a cross between a cheat-sheet and jsfiddle. It has a responsive design that makes it pleasant to use on mobile - handy for visualising code ideas when they strike at random times.
+ - TeaRounder - tools for making food and drink ordering easier.
+    - personal use version, to quickly create a list of what people want to order: tearounder.app/anywhere/start.html
+    - pub ordering demo at tearounder.app/TheLoremIpsum
+ - btncode.com - a web based, code-editing/reference tool.
+    - Kind of a cross between a quick reference and jsfiddle. 
+    - It has a responsive design that makes it pleasant to use on mobile, making it handy for visualising code ideas when they strike at random times.
 
 For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible
    - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
@@ -27,7 +30,7 @@ Over my career I've used a whole bunch of different programming languages, datab
 You can find me on ..
  - Reddit as PGDesign (I moderate r/ProtoStart - a space for collaborations, as well as r/TeaRounder - a sub for my TeaRounder project)
  - LinkedIn (as the founder of TeaRounder)
- - https://news.ycombinator.com/ and startupschool.org as PhillyG
+ - Mastodon, https://news.ycombinator.com/ and startupschool.org as PhillyG
 
 <!---
 PhilGanney/PhilGanney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
