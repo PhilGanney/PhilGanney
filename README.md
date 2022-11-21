@@ -11,10 +11,10 @@ Big projects that I am proud of include:
     - Kind of a cross between a quick reference and jsfiddle. 
     - It has a responsive design that makes it pleasant to use on mobile, making it handy for visualising code ideas when they strike at random times.
 
-For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible
+For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible, (with frameworks and libraries sprinkled in where appropriate).
    - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
    - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds. (for example, jQuery in TeaRounder for the ordering functionality, to make Ajax calls significantly easier, massively reducing development time)
-   - I use PHP when something needs to be done server side
+   - I tend to use PHP when something needs to be done server side, though have some experience with C# and Python too.
    - whenever I need to build a database I use mySQL
 
 For websites, what I use depends mostly on the owners tech ability and what features are needed:
@@ -22,15 +22,16 @@ For websites, what I use depends mostly on the owners tech ability and what feat
    - Many other CMS (Content Management Systems) and "website builders" exist too. I'll work in them if a client or collaborator prefers, though that generally requires a bit of time for me to find where everything is in those tools, and they vary in how much you can customize a website built in them, and what features can be put in.
    - by painful experience, I only use HTML, CSS and JS for websites if I'm confident that the owner is skilled enough with those techs to be able to update the website themselves. Even for websites I'm looking after, wordpress is my current preference, except for the homepages of web-apps. WordPress just makes updating text and pictures so much more effecient and how people would expect, compared with updating HTML.
    
-Over my career I've used a whole bunch of different programming languages, databases and frameworks - giving me quite a broad understanding of whats out there
+Over my career I've used a whole bunch of different programming languages, databases and frameworks - giving me quite a broad understanding of whats out there and different ways of doing things in code
    - Python is my second favourite programming language after JavaScript, though I've yet to use it for anything beyond little fun projects - I'd quite like that to change!
-   - C# and Java feel great for highly engineered projects. I've not used them for years, mostly down to not needing that level of engineering.
+   - C# and Java feel great for highly engineered projects. I've not used them in my public projects though.
    - mySQL and MS SQL Server are both great for storing data when JSON won't do. One of my personal projects "SQL GUI" is a tool to make designing databases easy to do on phones
  
 You can find me on ..
  - Reddit as PGDesign (I moderate r/ProtoStart - a space for collaborations, as well as r/TeaRounder - a sub for my TeaRounder project)
  - LinkedIn (as the founder of TeaRounder)
- - Mastodon, https://news.ycombinator.com/ and startupschool.org as PhillyG
+ - Mastodon at @PhillyG@fosstodon.org
+ - HN and startupschool.org as PhillyG
 
 <!---
 PhilGanney/PhilGanney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
