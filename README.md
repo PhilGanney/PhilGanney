@@ -4,16 +4,20 @@ My main coding interests are websites and apps that help small/medium businesses
 My solo projects are about innovating by applying existing techs, to new things, or with really nice designs.
 
 Big projects that I am proud of include:
- - TeaRounder - tools for making food and drink ordering easier.
-    - personal use version, to quickly create a list of what people want to order: tearounder.app/anywhere/start.html
-    - pub ordering demo at tearounder.app/TheLoremIpsum
- - btncode.com - a web based, code-editing/reference tool.
+ - btncode.com - a web based, code-editing/reference tool.  (A pet project that I still add to and I will be keeping online)
     - Kind of a cross between a quick reference and jsfiddle. 
-    - It has a responsive design that makes it pleasant to use on mobile, making it handy for visualising code ideas when they strike at random times.
+    - Built to make it easier for developers to use coding languages they are less familiar with
+    - It also has a responsive design that makes it pleasant to use on mobile, making it handy for visualising code ideas when they strike at random times.
+    - I will soon be building a new version of it in react, by using the version I built in Vanilla JavaScript. I am fairly new to react, so this is a great chance to see how much btnCode helps!
+ - TeaRounder - tools for making food and drink ordering easier. (website no longer online, but the code is still here should anyone want to use it).
+    -  I attempted to make a business out of this in 2020-2022 (perhaps the hardest time within my lifetime to start a business, but a great experience nonetheless) 
+    - started out in 2019 as a personal use drinks list app, to quickly create a list of what friends want to order, so that social events where smoother and less reliant on someone remembering a long list of drinks. At this stage, just a personal project to learn "hybrid app development", and get better at mobile design. 
+    - Sometime in 2020 around the time of "Eat out to help out", I got excited about pivoting TeaRounder into a web-app for cafe/pub "at-table ordering" thereby helping cafes/pubs safely handle orders. I started looking into getting VC funding, and a whole load of infrastructure stuff that turned out to not be needed
+    - in 2021, when my local area was coming back out of yet another lockdown, one day whilst sifting through ads for contracts pub ordering version via WooCommerce
 
-For web-apps, I like to work directly in HTML, CSS & "vanilla" JavaScript wherever possible, (with frameworks and libraries sprinkled in where appropriate).
-   - These are great for the amount of control I have over the end result, the low filesizes that give fast loading times and the ease of prototyping
-   - I add in useful JavaScript libraries when it seems overly time-consuming to achieve something in "vanilla" JavaScript that a libary excels at. I consider this the best of both worlds. (for example, jQuery in TeaRounder for the ordering functionality, to make Ajax calls significantly easier, massively reducing development time)
+For small-scale web-apps and prototypes, I like to work in HTML, CSS & "vanilla" JavaScript if viable. 
+   - HTML, CSS & "vanilla" JavaScript give low filesizes, fast loading times, easy prototyping up to a point and great control over the end result. They get a bit cumbersome at larger scale though. 
+   - I add in useful JavaScript libraries when it seems overly time-consuming to develop something in "vanilla" JavaScript that a libary excels at. (for example, jQuery in TeaRounder for the ordering functionality, to make Ajax calls significantly easier, massively reducing development time)
    - I tend to use PHP when something needs to be done server side, though have some experience with C# and Python too.
    - whenever I need to build a database I use mySQL
 
